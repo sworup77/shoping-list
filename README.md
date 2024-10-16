@@ -1,1 +1,1 @@
-# shoping-list
+# shoping-list his project provides a set of APIs to manage a shopping cart system, where users can add products, organize them into packages, and handle various operations related to shopping and packaging.
